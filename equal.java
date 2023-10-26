@@ -2,7 +2,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.ActionListener.*;
 
-public class equal extends JFrame implements ActionListener{
+public class equal extends JFrame
+{
      public static void main(String[] args){
    
         JFrame f = new JFrame("Ansh & Shivansh..... Calculator");
